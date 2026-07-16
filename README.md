@@ -1,20 +1,20 @@
-## Mahek Makandar
+# Mahek Makandar
 # SEO Executive | Digital Marketing Professional | WordPress Developer
 
 I help businesses improve their online presence through SEO, WordPress development, technical optimization, and data-driven digital marketing strategies. Passionate about increasing organic visibility, improving website performance, and creating impactful digital experiences.
 
-## ABOUT ME
+# ABOUT ME
 I'm a Digital Marketing professional with 1+ year of experience specializing in Search Engine Optimization (SEO), WordPress development, backlink building, and website optimization. I enjoy helping businesses improve their online visibility through technical SEO, content optimization, and strategic digital marketing.
 
 My expertise includes keyword research, technical SEO, on-page optimization, backlink acquisition, website performance improvement, and analytics. I believe in combining creativity with data to build websites that rank well, load faster, and deliver a better user experience.
 
 I continuously stay updated with the latest SEO trends, AI-powered marketing tools, and search engine algorithm updates to deliver effective and sustainable digital growth.
 
-## EXPERIENCE
+# EXPERIENCE
 SEO Executive & Digital Marketing Professional
 Experience: 1+ Year
 
-## Key Responsibilities
+# Key Responsibilities
 • Conduct keyword research using SEMrush and Google Keyword Planner.
 
 • Optimize websites with on-page SEO techniques including meta titles, meta descriptions, heading hierarchy, image optimization, schema implementation, and internal linking.
@@ -33,7 +33,7 @@ Experience: 1+ Year
 
 • Track keyword rankings, analyze SEO performance, and prepare optimization reports.
 
-## FEATURED PROJECTS
+# FEATURED PROJECTS
 Finnovate Summit – IBMR College
 🔗Website: https://finnovate.ibmrcollege.com/
 Finnovate Summit 2026 Website
@@ -56,10 +56,10 @@ Key Contributions
 
 ✔ Google Search Console Setup
 
-## IBMR College Digital Marketing
+# IBMR College Digital Marketing
 Worked on digital marketing activities including website management, LinkedIn content creation, YouTube optimization, SEO implementation, and event promotion for institutional branding and online engagement.
 
-## Key Contributions
+# Key Contributions
 
 ✔ LinkedIn Marketing
 
@@ -77,10 +77,10 @@ Worked on digital marketing activities including website management, LinkedIn co
 ## 1️⃣ Sana Ladies Gym & Fitness
 🔗 Website: https://sanaladiesgymandfitness.in/
 
-### Project Overview
+# Project Overview
 Designed and developed a professional fitness website focused on women’s health, transformation programs, and gym services.
 
-### Key Features
+# Key Features
 - Responsive website design
 - SEO optimization
 - User-friendly navigation
@@ -132,7 +132,7 @@ WordPress, SEO, Responsive Design, UI/UX Optimization
 - ChatGPT & AI Tools
 - MS Office
  
-## WHY HIRE ME?
+# WHY HIRE ME?
 
 ✔ Strong understanding of Search Engine Optimization
 
@@ -148,21 +148,21 @@ WordPress, SEO, Responsive Design, UI/UX Optimization
 
 ✔ Passionate about AI and emerging digital marketing trends
 
-## MY WORK PROCESS
+# MY WORK PROCESS
 
-## Research
+# Research
 
 Understand the website, audience, competitors, and target keywords.
 
-## Strategy
+# Strategy
 
 Develop an SEO and digital marketing plan aligned with business objectives.
 
-## Optimization
+# Optimization
 
 Improve website structure, content, speed, and technical performance.
 
-## Growth
+# Growth
 
 Monitor analytics, evaluate results, and continuously optimize for better performance.
 
