@@ -1,74 +1,75 @@
-# Mahek-portfolio
-# 👋 Hi, I'm Mahek k Makandar 
+## Mahek Makandar
+# SEO Executive | Digital Marketing Professional | WordPress Developer
 
-## 🚀 Digital Marketing Specialist | Social Media Marketer | SEO Enthusiast
+I help businesses improve their online presence through SEO, WordPress development, technical optimization, and data-driven digital marketing strategies. Passionate about increasing organic visibility, improving website performance, and creating impactful digital experiences.
 
-📍 Karnataka, India  
-📧 Email: [kmakandarMahek@gmail.com](mailto:kmakandarMahek@gmail.com)  
-📞 Phone: 8951231268  
-🔗 LinkedIn: https://www.linkedin.com/in/mahek-kmakandar-b52605295/
+## ABOUT ME
+I'm a Digital Marketing professional with 1+ year of experience specializing in Search Engine Optimization (SEO), WordPress development, backlink building, and website optimization. I enjoy helping businesses improve their online visibility through technical SEO, content optimization, and strategic digital marketing.
 
----
+My expertise includes keyword research, technical SEO, on-page optimization, backlink acquisition, website performance improvement, and analytics. I believe in combining creativity with data to build websites that rank well, load faster, and deliver a better user experience.
 
-# 💡 About Me
+I continuously stay updated with the latest SEO trends, AI-powered marketing tools, and search engine algorithm updates to deliver effective and sustainable digital growth.
 
-I am a passionate and creative Digital Marketing Specialist with hands-on experience in Social Media Marketing, SEO, Content Creation, Google Ads, and Website Development.
+## EXPERIENCE
+SEO Executive & Digital Marketing Professional
+Experience: 1+ Year
 
-Currently working as a **Social Media Marketer Intern at IBMR College**, where I manage digital promotions, social media campaigns, event branding, and online audience engagement across platforms like Instagram, YouTube, and LinkedIn.
+## Key Responsibilities
+• Conduct keyword research using SEMrush and Google Keyword Planner.
 
-I enjoy building brands through creative marketing strategies, engaging content, and modern digital tools. My goal is to help businesses grow their online presence and connect with the right audience.
+• Optimize websites with on-page SEO techniques including meta titles, meta descriptions, heading hierarchy, image optimization, schema implementation, and internal linking.
 
----
+• Build high-quality backlinks through guest posting, profile creation, business listings, directory submissions, and outreach.
 
-# 🎯 Skills
+• Perform technical SEO audits to identify and fix crawl errors, indexing issues, duplicate content, broken links, and Core Web Vitals problems.
 
-## 📈 Digital Marketing
-- Search Engine Optimization (SEO)
-- Google Ads & Meta Ads
-- AI-Powered Performance Marketing
-- Content Marketing
-- Email Marketing
-- Campaign Management
-- Audience Engagement
-- Social Media Strategy
+• Monitor website performance using Google Search Console, Google Analytics, and Microsoft Clarity.
 
-## 📱 Social Media Platforms
-- Instagram Marketing
-- YouTube Promotion
-- LinkedIn Branding
-- Facebook Marketing
-- Social Media Analytics
+• Develop and maintain WordPress websites using Elementor.
 
-## 💻 Website & Creative Skills
-- WordPress Website Development
-- HTML, CSS, JavaScript
-- React Basics
-- Responsive Web Design
-- Canva Design
-- Motion Graphics
-- Video Marketing
+• Improve website speed, mobile responsiveness, and user experience.
 
----
+• Support digital marketing campaigns through Meta Ads and social media marketing.
 
-# 💼 Work Experience
+• Track keyword rankings, analyze SEO performance, and prepare optimization reports.
 
-## Social Media Marketer Intern – IBMR College
-📅 Duration: 6 Months
+## FEATURED PROJECTS
+Finnovate Summit – IBMR College
+🔗Website: https://finnovate.ibmrcollege.com/
+Finnovate Summit 2026 Website
+SEO & WordPress Development
+Designed, developed, and optimized the official Finnovate Summit 2026 website using WordPress and Elementor. Implemented SEO best practices to improve search engine visibility, optimized page speed, enhanced mobile responsiveness, and integrated Google Analytics and Google Search Console for performance tracking.
 
-### Responsibilities
-- Managed social media marketing and digital promotions for IBMR College.
-- Created engaging posts and promotional content for Instagram, YouTube, and LinkedIn.
-- Promoted college events, conferences, and academic activities online.
-- Designed social media creatives, reels, and campaign graphics.
-- Improved audience engagement through creative content strategies.
-- Assisted in branding and online campaign management.
-- Analyzed social media insights and campaign performance.
+Key Contributions
 
-### Achievements
-- Successfully promoted multiple college events and conferences online.
-- Improved digital engagement through consistent social media posting.
-- Contributed creative ideas for audience growth and branding.
+✔ WordPress Development
 
+✔ On-Page SEO
+
+✔ Technical SEO
+
+✔ Mobile Optimization
+
+✔ Website Speed Optimization
+
+✔ Google Analytics Integration
+
+✔ Google Search Console Setup
+
+## IBMR College Digital Marketing
+Worked on digital marketing activities including website management, LinkedIn content creation, YouTube optimization, SEO implementation, and event promotion for institutional branding and online engagement.
+
+## Key Contributions
+
+✔ LinkedIn Marketing
+
+✔ YouTube SEO
+
+✔ Website Management
+
+✔ Content Optimization
+
+✔ Event Promotion
 ---
 
 # 🌐 Website Projects
@@ -89,24 +90,6 @@ Designed and developed a professional fitness website focused on women’s healt
 
 📌 Technologies Used:
 WordPress, SEO, Responsive Design, UI/UX Optimization
-
----
-
-## 2️⃣ Finnovate Summit – IBMR College
-🔗 Website: https://finnovate.ibmrcollege.com/
-
-### Project Overview
-Worked on the development and management of the Finnovate Summit website for IBMR College, showcasing event details, registrations, and research activities.
-
-### Key Features
-- Event information pages
-- Registration support
-- Professional UI structure
-- Mobile responsiveness
-- SEO-friendly content structure
-
-📌 Technologies Used:
-WordPress, Content Management, SEO, Web Design
 
 ---
 
@@ -148,6 +131,40 @@ WordPress, Content Management, SEO, Web Design
 - Google Analytics
 - ChatGPT & AI Tools
 - MS Office
+ 
+## WHY HIRE ME?
+
+✔ Strong understanding of Search Engine Optimization
+
+✔ Experience with WordPress website development
+
+✔ Technical SEO problem-solving skills
+
+✔ High-quality backlink building experience
+
+✔ Data-driven marketing approach
+
+✔ Quick learner with strong analytical thinking
+
+✔ Passionate about AI and emerging digital marketing trends
+
+## MY WORK PROCESS
+
+## Research
+
+Understand the website, audience, competitors, and target keywords.
+
+## Strategy
+
+Develop an SEO and digital marketing plan aligned with business objectives.
+
+## Optimization
+
+Improve website structure, content, speed, and technical performance.
+
+## Growth
+
+Monitor analytics, evaluate results, and continuously optimize for better performance.
 
 ---
 
@@ -161,8 +178,8 @@ WordPress, Content Management, SEO, Web Design
 
 # 📬 Contact Me
 
-📧 Email: kmakandarMahek@gmail.com  
-📞 Phone: 8951231268  
+📧 Email: kmakandarmahek@gmail.com  
+📞 Phone: 6362999760
 🔗 LinkedIn: https://www.linkedin.com/in/mahek-kmakandar-b52605295/
 
 ---
